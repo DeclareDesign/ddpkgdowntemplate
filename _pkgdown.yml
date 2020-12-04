@@ -1,0 +1,14 @@
+url: https://docs.ropensci.org/rotemplate
+
+template:
+  package: rotemplate
+
+destination: docs
+
+toc:
+  depth: 3
+
+authors:
+  rOpenSci:
+    href: https://ropensci.org
+    html: <img src='https://github.com/ropensci.png' height=24>
